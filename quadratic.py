@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-
-# ax2+bx+c=0 
+# -*- coding: utf-8 -*-
+# 求二元一次方程的解ax2+bx+c=0 
 
 
 import math
